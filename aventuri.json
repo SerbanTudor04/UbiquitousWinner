@@ -1,0 +1,62 @@
+[
+  {
+    "cod_aventura": 101,
+    "denumire": "CATARARE",
+    "tarif": 25.5,
+    "locuri_disponibile": 15
+  },
+  {
+    "cod_aventura": 102,
+    "denumire": "RAPEL",
+    "tarif": 30.0,
+    "locuri_disponibile": 12
+  },
+  {
+    "cod_aventura": 103,
+    "denumire": "TIROLIANA",
+    "tarif": 20.0,
+    "locuri_disponibile": 10
+  },
+  {
+    "cod_aventura": 104,
+    "denumire": "ESCALADA",
+    "tarif": 28.0,
+    "locuri_disponibile": 8
+  },
+  {
+    "cod_aventura": 105,
+    "denumire": "DRUMEȚIE",
+    "tarif": 15.0,
+    "locuri_disponibile": 20
+  },
+  {
+    "cod_aventura": 106,
+    "denumire": "CICLISM MONTAN",
+    "tarif": 35.5,
+    "locuri_disponibile": 5
+  },
+  {
+    "cod_aventura": 107,
+    "denumire": "PARAPANTA",
+    "tarif": 45.0,
+    "locuri_disponibile": 6
+  },
+  {
+    "cod_aventura": 108,
+    "denumire": "CANYONING",
+    "tarif": 40.0,
+    "locuri_disponibile": 9
+  },
+  {
+    "cod_aventura": 109,
+    "denumire": "KAYAKING",
+    "tarif": 22.0,
+    "locuri_disponibile": 14
+  },
+  {
+    "cod_aventura": 110,
+    "denumire": "ZORBNING",
+    "tarif": 18.5,
+    "locuri_disponibile": 11
+  }
+]

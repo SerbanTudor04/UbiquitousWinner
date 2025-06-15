@@ -1,0 +1,2 @@
+LIST,LIST,List all aventuri
+GET_AVENTURA_SLOTS,GET_AVENTURA_SLOTS <name>,Get available slots of an aventura by name
